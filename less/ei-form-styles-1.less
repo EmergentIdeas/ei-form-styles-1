@@ -1,0 +1,35 @@
+@import "bootstrap-form-styles";
+
+table.listing {
+	td, th {
+		padding: 3px 4px;
+	}
+	
+	button {
+		background: none;
+		border: 0;
+		opacity: 0;
+		transition: opacity .3s;
+	}
+	
+	tr:hover {
+		button {
+			opacity: 1;
+		}
+	}
+}
+
+label {
+	display: block;
+	margin-bottom: 15px;
+}
+
+input, textarea, select {
+	.form-control;
+	display: block;
+	box-sizing: border-box;
+	height: auto;
+	margin-top: 8px;
+}
+
+

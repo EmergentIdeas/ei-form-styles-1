@@ -1,0 +1,25 @@
+{
+  "name": "ei-form-styles-1",
+  "version": "1.0.0",
+  "description": "Some basic styles for forms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmergentIdeas/ei-form-styles-1.git"
+  },
+  "keywords": [
+    "css",
+    "less",
+    "form",
+    "styles"
+  ],
+  "author": "Dan Kolz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmergentIdeas/ei-form-styles-1/issues"
+  },
+  "homepage": "https://github.com/EmergentIdeas/ei-form-styles-1#readme"
+}
