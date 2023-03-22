@@ -1,6 +1,6 @@
 {
   "name": "ei-form-styles-1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Some basic styles for forms",
   "main": "index.js",
   "scripts": {
