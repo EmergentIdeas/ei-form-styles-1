@@ -1,6 +1,6 @@
 {
   "name": "ei-form-styles-1",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Some basic styles for forms",
   "main": "index.js",
   "scripts": {
@@ -29,5 +29,7 @@
   , "files": [
 	"less"
 	, "public"
+	, "initialize-webhandle-component.mjs"
+	, "README.md"
   ]
 }
